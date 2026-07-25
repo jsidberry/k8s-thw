@@ -94,3 +94,16 @@ etc.). For these:
 - Target cloud: GCP
 - Reference: Kelsey Hightower's Kubernetes The Hard Way
   (https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- GCP Project ID: learning-lab-24652
+- GCP Zone: northamerica-south1-a
+
+## Command logging for human learning
+Whenever you ask me to run a bash command, also append it to `commands-learned.md` file located in the `/Users/jsidberry/` directory, in this format:
+
+    ## <date>
+```bash
+    <the exact command>
+```
+    <one-sentence plain-English explanation of what it does and why>
+
+for the BASH commands, keep explanations concise. This is for my later review/learning.
